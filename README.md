@@ -11,7 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="[Banner.jpg](https://github.com/JoaquinAC/JoaquinAC/blob/main/Banner.jpg?raw=true)"
+  <img  src="https://github.com/JoaquinAC/JoaquinAC/blob/main/Banner.jpg?raw=true"
        alt="snake" /></a>
 </div>
 
