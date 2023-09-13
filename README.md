@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="[Banner.jpg](https://github.com/JoaquinAC/JoaquinAC/blob/main/Banner.jpg?raw=true)">
+<img src="https://github.com/JoaquinAC/JoaquinAC/blob/main/Banner.jpg">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -11,7 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/JoaquinAC/JoaquinAC/blob/main/Banner.jpg?raw=true"
+  <img  src="https://github.com/JoaquinAC/JoaquinAC/blob/main/Banner.jpg"
        alt="snake" /></a>
 </div>
 
