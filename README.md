@@ -18,19 +18,19 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">La confusion es parte de programar</h2></summary>
+    <summary><h2 style="display: inline-block">La calma es la clave al programar </h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 Actualmente estoy trabajando en AWS, React, Redux, Nodejs, Sequelize y PostgreSQL.
+- 🔭 Actualmente estoy trabajando en AWS, React, Redux, Nodejs, Mongoose , TypeScript , MongoDB , Passport , Jest en una API RestFul 
 
-- 🌱 Estoy aprendiendo actualmente a construir múltiples pilas tecnológicas para aplicaciones escalables.
+- 🌱 Estoy aprendiendo actualmente a construir APIs RestFul con las mejores practicas posibles en seguridad , manejo de errores y optimizacion en tiempos de carga.
 
 - ☁️ Tengo un gran interés en la informática en la nube. Por eso, estoy aprendiendo AWS.
 
-- 💬 Puedes preguntarme acerca de AWS, React, Redux, Nodejs, Sequelize y PostgreSQL.
+- 💬 Puedes preguntarme acerca de AWS, stack PERN , TypeScript , Jest , MongoDB ,Passport 
 
 - 📫 Sientete libre de contactarme joaquin_eleuce@hotmail.com
 
