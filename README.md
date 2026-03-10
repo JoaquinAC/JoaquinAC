@@ -1,5 +1,3 @@
-![Banner](https://github.com/JoaquinAC/JoaquinAC/blob/main/Banner.jpg)
-
 <h1 align="center">Hola 👋 Soy Joaquin</h1>
 
 <h3 align="center">Full Stack Developer | Angular & Spring Boot</h3>
